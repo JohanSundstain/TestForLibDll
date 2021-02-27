@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibDll", "TestLibDll\TestLibDll.csproj", "{747146C3-7964-4BEB-B1EA-3D3A420783B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747146C3-7964-4BEB-B1EA-3D3A420783B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747146C3-7964-4BEB-B1EA-3D3A420783B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747146C3-7964-4BEB-B1EA-3D3A420783B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747146C3-7964-4BEB-B1EA-3D3A420783B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
